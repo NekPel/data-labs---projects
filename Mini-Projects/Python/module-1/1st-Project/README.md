@@ -24,7 +24,7 @@ At the beginning, I created a drawing with several procedures of my program. The
 ## Organization
 The name of my repository is data-labs-projects. Insite my repository I have a README.md file and a folder with the name Mini-Projects/Python.
 Inside this file, I created three folders that correspond to the three modules that the cohort is divided. Then, inside the module-1 folder, there is another folder with the name 1st-Project which is saved the current project.
-I did not use the Trello yet, but I will add to my project.
+I did not use the Trello yet, but I will add it to my project.
 
 ## Links 
 
