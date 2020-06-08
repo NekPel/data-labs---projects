@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# Hangman Game
+*[Nektarios]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Berlin & 06.20]*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,21 +13,20 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+The Hangman game is a game where a player tries to guess the secret random word in a certain number of attempts, otherwise, he loses the game. I chose this game because I wanted to learn how it can be coded and check the possibilities of the game's code.
 
 ## Rules
-Describe briefly the rules of the game you chose. 
+The player has to enter a letter and then the program validates the input entered. This means that the input has to be a letter from the alphabet, not a special character, and not a number. Also, the player has six attempts until he correctly guesses the secret word.     
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+At the beginning, I created a drawing with several procedures of my program. Then I created the basic structure of my code and next, I started implementing the different ideas and debugging any errors that occurred until the final result.
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
+The name of my repository is data-labs-projects. Insite my repository I have a README.md file and a folder with the name Mini-Projects/Python.
+Inside this file, I created three folders that correspond to the three modules that the cohort is divided. Then, inside the module-1 folder, there is another folder with the name 1st-Project which is saved the current project.
+I did not use the Trello yet, but I will add to my project.
 
-What does your repository look like? Explain your folder and file structure.
+## Links 
 
-## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
+[Repository](https://github.com/NekPel/data-labs-projects)   
 
-[Repository](https://github.com/)   
-[Trello](https://trello.com/en)  
